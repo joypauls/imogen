@@ -26,3 +26,15 @@ clean:
 	rm -rf *.egg-info
 	rm -rf .tox dist site
 	rm -rf coverage.xml .coverage
+
+install-local:
+	poetry install -E doc -E dev -E test
+
+build-local:
+	poetry build
+
+test-local:
+	poetry run pytest
+
+tox-local:
+	poetry run pytest

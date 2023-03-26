@@ -10,6 +10,8 @@
 
 Skeleton project created by Cookiecutter PyPackage
 
+https://waynerv.github.io/cookiecutter-pypackage/tutorial/
+
 
 * Documentation: <https://joypauls.github.io/imogen>
 * GitHub: <https://github.com/joypauls/imogen>
