@@ -26,3 +26,11 @@ https://waynerv.github.io/cookiecutter-pypackage/tutorial/
 ## Credits
 
 This package was created with [Cookiecutter](https://github.com/audreyr/cookiecutter) and the [waynerv/cookiecutter-pypackage](https://github.com/waynerv/cookiecutter-pypackage) project template.
+
+
+
+## Dev
+
+poetry config virtualenvs.in-project true
+poetry env list
+poetry env remove <>

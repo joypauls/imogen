@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-"""Tests for `imogen` package."""
-
 import pytest
 from click.testing import CliRunner
 
